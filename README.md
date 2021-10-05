@@ -1,0 +1,1 @@
+THe current project is to create a Webpage of recipes using the skills adquired until this moment. Using images, links, lists and GIT.
